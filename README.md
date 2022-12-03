@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Vaidehi Sankhe
-- 👀 I’m interested in Full Stack, Python, Ui&UX Developmet
+- 👀 I’m interested in Full Stack, Python, Ui&UX Developmet,Data Manageent
+
 - 🌱 I’m currently learning B.E. Information Technology from University of Mumbai
 - 📫 How to reach me at LinkedIn:- https://www.linkedin.com/in/vaidehisankhe/
 
