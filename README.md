@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaidehi Sankhe
 - 👀 Information Technology Graduate | Team Manager | Analytics Specialist | Microsoft Power BI || IBM CERTIFIED || Data Analyst || Pyspark || R || python || Javascript|| C++
-- 🌱Grauted with B.E. Infrmation Technology from University of Mumbai
+- 🌱 Graduated with B.E. Infrmation Technology from University of Mumbai
 - 📫 How to reach me at LinkedIn:- https://www.linkedin.com/in/vaidehi-sankhe/
 
 <!---
